@@ -454,5 +454,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 .DS_Store
-node_modules/
 /dist/
